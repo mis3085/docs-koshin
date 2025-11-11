@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://smp.koshin.com.tw/sitemap.xml
