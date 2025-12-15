@@ -58,6 +58,11 @@
     />
     <xhtml:link
       rel="alternate"
+      hreflang="zh-tw"
+      href="https://smp.koshin.com.tw/zh-tw/company-profile/esg/"
+    />
+    <xhtml:link
+      rel="alternate"
       hreflang="ru"
       href="https://smp.koshin.com.tw/ru/company-profile/esg/"
     />
@@ -115,6 +120,11 @@
       rel="alternate"
       hreflang="ko"
       href="https://smp.koshin.com.tw/ko/shop/wet-pressed-molded-pulp-2/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="zh-tw"
+      href="https://smp.koshin.com.tw/zh-tw/shop/wet-pressed-molded-pulp-2/"
     />
     <xhtml:link
       rel="alternate"
@@ -178,68 +188,13 @@
     />
     <xhtml:link
       rel="alternate"
+      hreflang="zh-tw"
+      href="https://smp.koshin.com.tw/zh-tw/shop/electronics-3c-product-trays-4/"
+    />
+    <xhtml:link
+      rel="alternate"
       hreflang="ru"
       href="https://smp.koshin.com.tw/ru/shop/electronics-3c-product-trays-4/"
-    />
-  </url>
-  <url>
-    <loc>https://smp.koshin.com.tw/ru/advantages-of-eco-friendly-molded-pulp-packaging/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="https://smp.koshin.com.tw/en/advantages-of-eco-friendly-molded-pulp-packaging/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="de"
-      href="https://smp.koshin.com.tw/de/advantages-of-eco-friendly-molded-pulp-packaging/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="es"
-      href="https://smp.koshin.com.tw/es/advantages-of-eco-friendly-molded-pulp-packaging/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="fr"
-      href="https://smp.koshin.com.tw/fr/advantages-of-eco-friendly-molded-pulp-packaging/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="it"
-      href="https://smp.koshin.com.tw/it/advantages-of-eco-friendly-molded-pulp-packaging/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="pt"
-      href="https://smp.koshin.com.tw/pt/advantages-of-eco-friendly-molded-pulp-packaging/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="ar"
-      href="https://smp.koshin.com.tw/ar/advantages-of-eco-friendly-molded-pulp-packaging/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="hi"
-      href="https://smp.koshin.com.tw/hi/advantages-of-eco-friendly-molded-pulp-packaging/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="ja"
-      href="https://smp.koshin.com.tw/ja/advantages-of-eco-friendly-molded-pulp-packaging/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="ko"
-      href="https://smp.koshin.com.tw/ko/advantages-of-eco-friendly-molded-pulp-packaging/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="ru"
-      href="https://smp.koshin.com.tw/ru/advantages-of-eco-friendly-molded-pulp-packaging/"
     />
   </url>
   <url>
@@ -298,68 +253,13 @@
     />
     <xhtml:link
       rel="alternate"
+      hreflang="zh-tw"
+      href="https://smp.koshin.com.tw/zh-tw/shop/"
+    />
+    <xhtml:link
+      rel="alternate"
       hreflang="ru"
       href="https://smp.koshin.com.tw/ru/shop/"
-    />
-  </url>
-  <url>
-    <loc>https://smp.koshin.com.tw/ru/advantages-of-eco-friendly-molded-pulp-packaging/production-flow/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="https://smp.koshin.com.tw/en/advantages-of-eco-friendly-molded-pulp-packaging/production-flow/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="de"
-      href="https://smp.koshin.com.tw/de/advantages-of-eco-friendly-molded-pulp-packaging/production-flow/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="es"
-      href="https://smp.koshin.com.tw/es/advantages-of-eco-friendly-molded-pulp-packaging/production-flow/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="fr"
-      href="https://smp.koshin.com.tw/fr/advantages-of-eco-friendly-molded-pulp-packaging/production-flow/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="it"
-      href="https://smp.koshin.com.tw/it/advantages-of-eco-friendly-molded-pulp-packaging/production-flow/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="pt"
-      href="https://smp.koshin.com.tw/pt/advantages-of-eco-friendly-molded-pulp-packaging/production-flow/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="ar"
-      href="https://smp.koshin.com.tw/ar/advantages-of-eco-friendly-molded-pulp-packaging/production-flow/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="hi"
-      href="https://smp.koshin.com.tw/hi/advantages-of-eco-friendly-molded-pulp-packaging/production-flow/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="ja"
-      href="https://smp.koshin.com.tw/ja/advantages-of-eco-friendly-molded-pulp-packaging/production-flow/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="ko"
-      href="https://smp.koshin.com.tw/ko/advantages-of-eco-friendly-molded-pulp-packaging/production-flow/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="ru"
-      href="https://smp.koshin.com.tw/ru/advantages-of-eco-friendly-molded-pulp-packaging/production-flow/"
     />
   </url>
   <url>
@@ -398,13 +298,13 @@
     />
     <xhtml:link
       rel="alternate"
-      hreflang="hi"
-      href="https://smp.koshin.com.tw/hi/company-profile/"
+      hreflang="ar"
+      href="https://smp.koshin.com.tw/ar/company-profile/"
     />
     <xhtml:link
       rel="alternate"
-      hreflang="ar"
-      href="https://smp.koshin.com.tw/ar/company-profile/"
+      hreflang="hi"
+      href="https://smp.koshin.com.tw/hi/company-profile/"
     />
     <xhtml:link
       rel="alternate"
@@ -418,68 +318,13 @@
     />
     <xhtml:link
       rel="alternate"
+      hreflang="zh-tw"
+      href="https://smp.koshin.com.tw/zh-tw/company-profile/"
+    />
+    <xhtml:link
+      rel="alternate"
       hreflang="ru"
       href="https://smp.koshin.com.tw/ru/company-profile/"
-    />
-  </url>
-  <url>
-    <loc>https://smp.koshin.com.tw/ru/advantages-of-eco-friendly-molded-pulp-packaging/molded-pulp-process/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="https://smp.koshin.com.tw/en/advantages-of-eco-friendly-molded-pulp-packaging/molded-pulp-process/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="de"
-      href="https://smp.koshin.com.tw/de/advantages-of-eco-friendly-molded-pulp-packaging/molded-pulp-process/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="es"
-      href="https://smp.koshin.com.tw/es/advantages-of-eco-friendly-molded-pulp-packaging/molded-pulp-process/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="fr"
-      href="https://smp.koshin.com.tw/fr/advantages-of-eco-friendly-molded-pulp-packaging/molded-pulp-process/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="it"
-      href="https://smp.koshin.com.tw/it/advantages-of-eco-friendly-molded-pulp-packaging/molded-pulp-process/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="pt"
-      href="https://smp.koshin.com.tw/pt/advantages-of-eco-friendly-molded-pulp-packaging/molded-pulp-process/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="ar"
-      href="https://smp.koshin.com.tw/ar/advantages-of-eco-friendly-molded-pulp-packaging/molded-pulp-process/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="hi"
-      href="https://smp.koshin.com.tw/hi/advantages-of-eco-friendly-molded-pulp-packaging/molded-pulp-process/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="ja"
-      href="https://smp.koshin.com.tw/ja/advantages-of-eco-friendly-molded-pulp-packaging/molded-pulp-process/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="ko"
-      href="https://smp.koshin.com.tw/ko/advantages-of-eco-friendly-molded-pulp-packaging/molded-pulp-process/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="ru"
-      href="https://smp.koshin.com.tw/ru/advantages-of-eco-friendly-molded-pulp-packaging/molded-pulp-process/"
     />
   </url>
   <url>
@@ -535,6 +380,11 @@
       rel="alternate"
       hreflang="ko"
       href="https://smp.koshin.com.tw/ko/shop/featured-products-6/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="zh-tw"
+      href="https://smp.koshin.com.tw/zh-tw/shop/featured-products-6/"
     />
     <xhtml:link
       rel="alternate"
@@ -598,6 +448,11 @@
     />
     <xhtml:link
       rel="alternate"
+      hreflang="zh-tw"
+      href="https://smp.koshin.com.tw/zh-tw/contactus/"
+    />
+    <xhtml:link
+      rel="alternate"
       hreflang="ru"
       href="https://smp.koshin.com.tw/ru/contactus/"
     />
@@ -655,6 +510,11 @@
       rel="alternate"
       hreflang="ko"
       href="https://smp.koshin.com.tw/ko/shop/medical-equipment-packaging-7/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="zh-tw"
+      href="https://smp.koshin.com.tw/zh-tw/shop/medical-equipment-packaging-7/"
     />
     <xhtml:link
       rel="alternate"
@@ -718,6 +578,11 @@
     />
     <xhtml:link
       rel="alternate"
+      hreflang="zh-tw"
+      href="https://smp.koshin.com.tw/zh-tw/shop/industrial-product-packaging-3/"
+    />
+    <xhtml:link
+      rel="alternate"
       hreflang="ru"
       href="https://smp.koshin.com.tw/ru/shop/industrial-product-packaging-3/"
     />
@@ -775,6 +640,11 @@
       rel="alternate"
       hreflang="ko"
       href="https://smp.koshin.com.tw/ko/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="zh-tw"
+      href="https://smp.koshin.com.tw/zh-tw/"
     />
     <xhtml:link
       rel="alternate"
